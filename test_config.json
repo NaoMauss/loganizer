@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sample-log",
+    "path": "test_logs/sample.log",
+    "type": "sample"
+  },
+  {
+    "id": "main-go",
+    "path": "main.go",
+    "type": "source"
+  },
+  {
+    "id": "invalid-path",
+    "path": "/non/existent/log.log",
+    "type": "unknown"
+  },
+  {
+    "id": "test-readme",
+    "path": "README.md",
+    "type": "documentation"
+  }
+]
