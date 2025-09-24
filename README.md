@@ -311,21 +311,6 @@ if errors.As(err, &parseErr) {
 }
 ```
 
-## 👥 Équipe de développement
-
-### Membres de l'équipe
-
-- **Nao MAUSSERVEY** - Développeur principal
-  - Responsabilités: Architecture, concurrence, CLI, gestion d'erreurs
-
-- **Younes ESSLIMANI** - Développeur
-  - Responsabilités: Export JSON, documentation, tests, fonctionnalités bonus
-
-### Rôles et responsabilités
-
-- **Nao MAUSSERVEY** : Architecture générale, patterns de concurrence, interface CLI
-- **Younes ESSLIMANI** : Gestion d'erreurs personnalisées, export JSON, documentation et fonctionnalités bonus
-
 ## 🧪 Tests
 
 ### Tests manuels
