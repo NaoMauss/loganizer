@@ -355,31 +355,7 @@ echo '[{"id": "missing", "path": "/missing.log", "type": "test"}]' > missing.jso
 
 ## 🤝 Contribution
 
-### Pour contribuer
-
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
-
-### Standards de code
-
-- Commentaires en français pour la documentation utilisateur
-- Documentation GoDoc pour les fonctions publiques
-- Gestion d'erreurs explicite avec messages clairs
-- Tests unitaires pour les nouvelles fonctionnalités
-
-## 📄 Licence
-
-Ce projet est développé dans le cadre d'un TP académique. Tous droits réservés.
-
-## 🔗 Liens utiles
-
-- [Documentation Go](https://golang.org/doc/)
-- [Cobra CLI Framework](https://cobra.dev/)
-- [Patterns de concurrence Go](https://golang.org/doc/effective_go.html#concurrency)
-
----
+- Nao MAUSSERVEY
+- Younes ESSLIMANI
 
 **LogAnalyzer v1.0** - Développé avec ❤️ en Go
